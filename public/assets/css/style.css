@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.layout_padding {
+    padding: 90px 0;
+}
+
+.about_section h3 {
+    font-size: 40px;
+    margin: 5px 0 25px 0;
+    font-weight: 600;
+}
+
+.about_section h4 {
+    color: #4fcaff;
+    font-size: 18px;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 300;
+}
+/* about us */
+
+
+#mu-about {
+    background-color: #fff;
+    display: inline;
+    float: left;
+    width: 100%;
+
+}
+
+
+.mu-about-area {
+    display: inline;
+    float: left;
+    padding: 100px 0;
+    width: 100%;
+}
+
+.mu-title {
+    display: inline;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 35px;
+    padding: 0 25%;
+}
+
+.mu-title h2 {
+    color: #323232;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+
+.mu-about-left {
+    display: inline;
+    float: left;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.mu-about-right {
+    display: inline;
+    float: left;
+    padding-left: 15px;
+    width: 100%
+}
+
+
+.mu-about-right ul li h3 {
+    border-bottom: 3px solid #e5e5e5;
+    color: #323232;
+    font-size: 20px;
+    display: inline-block;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.mu-about-right p {
+    font-size: 14px;
+}
+
+.card-img-top{
+    max-width: 880px;
+    max-height: 500px;
+}
