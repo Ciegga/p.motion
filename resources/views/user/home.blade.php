@@ -122,7 +122,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="featured-item">
                         <div class="thumb">
-                            <img src="img/featured_item_1.jpg" alt="">
+                            <img src="/public/img/featured_item_1.jpg" alt="">
                             <div class="date-content">
                                 <h6>28</h6>
                                 <span>August</span>
@@ -139,7 +139,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="featured-item">
                         <div class="thumb">
-                            <img src="img/featured_item_2.jpg" alt="">
+                            <img src="/public/img/featured_item_2.jpg" alt="">
 
                             <div class="date-content">
                                 <h6>20</h6>
@@ -157,7 +157,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="featured-item">
                         <div class="thumb">
-                            <img src="img/featured_item_3.jpg" alt="">
+                            <img src="/public/img/featured_item_3.jpg" alt="">
 
                             <div class="date-content">
                                 <h6>12</h6>
@@ -192,7 +192,7 @@
                 <div class="col-md-4">
                     <div class="service-item">
                         <div class="icon">
-                            <img src="img/service_icon_1.png" alt="">
+                            <img src="/public/img/service_icon_1.png" alt="">
                         </div>
                         <h4>Высококачественный дизайн </h4>
                     </div>
@@ -200,7 +200,7 @@
                 <div class="col-md-4">
                     <div class="service-item">
                         <div class="icon">
-                            <img src="img/service_icon_2.png" alt="">
+                            <img src="/public/img/service_icon_2.png" alt="">
                         </div>
                         <h4>Полная ответственность за взятый проект</h4>
                     </div>
@@ -208,7 +208,7 @@
                 <div class="col-md-4">
                     <div class="service-item">
                         <div class="icon">
-                            <img src="img/service_icon_3.png" alt="">
+                            <img src="/public/img/service_icon_3.png" alt="">
                         </div>
                         <h4>Лучшие Html/CSS макеты</h4>
                     </div>
@@ -230,7 +230,7 @@
             </div>
         </div>
         <video autoplay="" loop="" muted>
-            <source src="highway-loop.mp4" type="video/mp4" />
+            <source src="/public/highway-loop.mp4" type="video/mp4" />
         </video>
     </section>
 
